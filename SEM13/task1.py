@@ -1,7 +1,7 @@
-from SEM13_classes import RectangleWorks
-from SEM13_classes import MatrixWorks
-from SEM13_classes import FileListerWorks
-from SEM13.task2.custom_exceptions import *
+from sem13_classes import RectangleWorks
+from sem13_classes import MatrixWorks
+from sem13_classes import FileListerWorks
+from sem13.task2.custom_exceptions import *
 
 
 def rectangle_part():
